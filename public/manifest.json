@@ -1,0 +1,6 @@
+{
+  "short_name": "Cain Portfolio",
+  "name": "Cain Portfolio Website",
+  "start_url": ".",
+  "display": "standalone"
+}
